@@ -1,4 +1,4 @@
-Sales Tax Problem
+# Sales Tax Problem
 
 Basic sales tax is applicable at a rate of 10% on all goods, except books, food, and medical products that are exempt. Import duty is an additional sales tax applicable on all imported goods at a rate of 5%, with no exemptions.
 
@@ -6,15 +6,15 @@ When I purchase items I receive a receipt which lists the name of all the items 
 
 Write an application that prints out the receipt details for these shopping baskets...
 
-#installation
+# Installation
 cd download directory
 npm i
 
-#build
+# build
 npm run build 
 
-#Usage 
+# Usage 
 npm start
 
-#Built With
+# Built With
 typescipr Version 3.9.9
