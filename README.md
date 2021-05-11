@@ -7,14 +7,13 @@ When I purchase items I receive a receipt which lists the name of all the items 
 Write an application that prints out the receipt details for these shopping baskets...
 
 # Installation
-cd download directory
 npm i
 
 # build
-npm run build 
+npm run build to build the project
 
 # Usage 
-npm start
+npm start to run the project
 
 # Built With
 typescipr Version 3.9.9
