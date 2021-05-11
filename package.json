@@ -1,0 +1,15 @@
+{
+  "name": "sales-tax-problem",
+  "version": "1.0.0",
+  "description": "sales tax calculation",
+  "main": "index.js",
+  "scripts": {
+    "build": "node node_modules/typescript/bin/tsc src/main.ts --outDir bin/",
+    "start":  "node bin/main.js"     
+  },
+  "author": "Andrea Giunta",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.9"
+  }
+}
